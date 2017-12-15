@@ -8,9 +8,8 @@ import numpy as np
 import gdax
 import time
 
-def update_price_mat(history,products,currencies):    
-    prices = np.zeros(len(products))*np.nan
-    result = np.diag(np.ones(len(currencies)))    
+def update_price_mat(history,products,currencies,old_prices):     
+    result = np.diag(np.ones(len(currencies)))
     for i in range(len(history)):        
         msg = history.pop(0)    
         if not type(msg) is dict:
@@ -19,40 +18,41 @@ def update_price_mat(history,products,currencies):
             continue
         prod = msg['product_id']
         if prod in products:
-            prices[products.index(prod)] = msg['price']
+            old_prices[products.index(prod)] = msg['price']
     
     for i in range(len(products)):
         cur = products[i].split('-')
-        result[currencies.index(cur[0]),currencies.index(cur[1])] = prices[i]
-        result[currencies.index(cur[1]),currencies.index(cur[0])] = 1/prices[i]
-    return result
+        result[currencies.index(cur[0]),currencies.index(cur[1])] = old_prices[i]
+        result[currencies.index(cur[1]),currencies.index(cur[0])] = 1/old_prices[i]
+    return result, old_prices
     
 def get_best_loop(prices,currencies,products,money_type=-1):
     if prices.ndim != 2:
         # failed with matrix
-        return -1            
+        return -1,0,0            
     
     sel = np.array([prices[i,:] * prices[:,j]/prices[i][j] for i in range(len(prices)) for j in range(len(prices))])
     if money_type == -1:        
         max_val = np.nanmax(sel)
         if max_val < 1.01:
             # not interesting enough
-            return -2 
+            return -2,0,0 
         index = np.unravel_index(np.nanargmax(sel),(len(prices),len(prices),len(prices)))
         p = currencies[index[2]],currencies[index[1]],currencies[index[0]]
     else:
         sel = np.array([prices[i,:] * prices[:,j]/prices[i][j] for i in [money_type] for j in range(len(prices))])
         max_val = np.nanmax(sel)
-        if max_val < 1.01:
+        if max_val < 1.001:
             # not interesting enough
-            return -2 
+            return -2,0,0
         index = np.unravel_index(np.nanargmax(sel),(len(prices),len(prices)))
         p = currencies[money_type],currencies[index[1]],currencies[index[0]]
+        
     orders = []    
     orders.append([prod for prod in products if p[0] in prod and p[1] in prod][0])
     orders.append([prod for prod in products if p[1] in prod and p[2] in prod][0])
     orders.append([prod for prod in products if p[2] in prod and p[0] in prod][0])    
-    return orders
+    return orders,p, max_val
         
 
 def round2(number):
@@ -87,13 +87,15 @@ def check_prod_in_history(products,history):
     return True
             
 short_history = [0]
-products = ['BTC-USD', 'BTC-EUR','ETH-USD','ETH-BTC', 'ETH-EUR','LTC-USD','LTC-BTC', 'LTC-EUR', ]
-currencies = ['BTC', 'ETH', 'LTC', 'USD','EUR']
+#products = ['BTC-USD', 'BTC-EUR','ETH-USD','ETH-BTC', 'ETH-EUR','LTC-USD','LTC-BTC', 'LTC-EUR', ]
+products = ['BTC-USD', 'ETH-USD','ETH-BTC', 'LTC-USD','LTC-BTC']
+currencies = ['BTC', 'ETH', 'LTC', 'USD']
 web_client = gdax.WebsocketClient(mongo_collection=short_history, message_type='subscribe', should_print=False, channels=[{ "name": "ticker", "product_ids": products }])
 web_client.start()
+time.sleep(10)
 
 Simulation = True
-fee = 0.0025
+fee = 0
 
 if not Simulation:    
     key = 'key'
@@ -102,7 +104,8 @@ if not Simulation:
     my_client = gdax.authenticated_client(key, b64secret, passphrase,)    
     account_id = 'id'
     my_account = my_client.get_account(account_id)
-    
+   
+produc_prices = np.ones(len(products))*np.nan
 start_time = time.clock()
 counter = 0
 
@@ -111,19 +114,17 @@ if Simulation:
     for c in currencies:
         wallet[c] = 0
     wallet['USD'] = 10000
-    wallet['EUR'] = 10000
 
 with open('log.txt','a+') as log_file:
     log_file.write('*** Started new run at {0} ***'.format(time.asctime()))
-    while True:        
-        if not check_prod_in_history(products,short_history):                               
-            time.sleep(3)
-            print('error getting prices')
-            continue
-        try:           
-            prices = update_price_mat(short_history,products,currencies)
-            prices[prices==0] = np.nan
-            if sum(np.isnan(np.ravel(prices))) > 4:
+    while True:                
+        try:                  
+            if not web_client.ws.connected:
+                web_client.start()
+                time.sleep(5)
+            prices_matrix, produc_prices = update_price_mat(short_history,products,currencies,produc_prices)
+            prices_matrix[prices_matrix==0] = np.nan
+            if sum(np.isnan(np.ravel(prices_matrix))) > 2:
                 print('error getting prices')
                 time.sleep(5)
                 continue
@@ -135,8 +136,8 @@ with open('log.txt','a+') as log_file:
         if not Simulation:
             traded_currency = 3 # np.nanargmax([get_balance(my_client,account_id,currencies[i]) * prices[i,0] for i in range(len(currencies))])            
         else:
-            traded_currency = 4 #np.nanargmax(np.array([v for v in wallet.values()])*prices[:,0])
-        orders = get_best_loop(prices,currencies,products,traded_currency)
+            traded_currency = 3 #np.nanargmax(np.array([v for v in wallet.values()])*prices[:,0])
+        orders,p,max_val = get_best_loop(prices_matrix,currencies,products,traded_currency)
         
         if orders == -1:
             print('price matrix is wrong')
@@ -193,7 +194,7 @@ with open('log.txt','a+') as log_file:
                 time.sleep(5)                        
                 available_money = get_balance(my_client,account_id,currency)   
             
-        else:     
+        else:                 
             
             currency = orders[0].split('-')[1]                    
             row = currencies.index(currency)
@@ -202,31 +203,31 @@ with open('log.txt','a+') as log_file:
                    
             currency1 = orders[0].split('-')[0]                          
             col = currencies.index(currency1)                        
-            wallet[currency1] += (available_money * prices[row,col])*(1-fee)
-            order_msg = ' Bought {0} of {1} at {2} {3}.'.format(available_money * prices[row,col], currency1, prices[row,col], currency )                           
+            wallet[currency1] += (available_money * prices_matrix[row,col])*(1-fee)
+            #order_msg = ' Bought {0} of {1} at {2} {3}.'.format(available_money * prices_matrix[row,col], currency1, prices_matrix[row,col], currency )                           
             available_money = wallet[currency1]
             wallet[currency1] = 0
             
-            currency2 = orders[1].split('-')[0]            
+            currency2 = orders[2].split('-')[0]             
             row = currencies.index(currency2)
-            wallet[currency2] += (available_money * prices[col,row])*(1-fee)
-            order_msg += ' Bought {0} of {1} at {2} {3}.'.format(available_money * prices[col,row], currency2, prices[col,row], currency1 )                           
+            wallet[currency2] += (available_money * prices_matrix[col,row])*(1-fee)
+            #order_msg += ' Bought {0} of {1} at {2} {3}.'.format(available_money * prices_matrix[col,row], currency2, prices_matrix[col,row], currency1 )                           
             available_money = wallet[currency2]
             wallet[currency2] = 0
             
             currency = orders[0].split('-')[1]            
             col = currencies.index(currency)
-            wallet[currency] += (available_money * prices[row,col])*(1-fee)
-            order_msg += ' Bought {0} of {1} at {2} {3}.'.format(available_money * prices[row,col], currency, prices[row,col], currency2 )                           
+            wallet[currency] += (available_money * prices_matrix[row,col])*(1-fee)
+            #order_msg += ' Bought {0} of {1} at {2} {3}.'.format(available_money * prices_matrix[row,col], currency, prices_matrix[row,col], currency2 )                           
             
-            log_text = 'Current balance :'
+            log_text = 'Order : {0}. Prices : {1}. Order profit : {2:.3%}.  Current balance :'.format(p,produc_prices,max_val-1)
             for i in range(len(currencies)):
                 log_text += ' {0} = {1}.'.format(currencies[i],wallet[currencies[i]])
-            log_text += order_msg
+            #log_text += order_msg
                 
         log_text = "Time is {0}. {1}".format(time.asctime(),log_text)
         log_file.write(log_text + '\n')
         print(log_text)        
-        time.sleep(10) 
+        time.sleep(30) 
         
         

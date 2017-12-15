@@ -1,0 +1,486 @@
+*** Started new run at Fri Dec 15 07:31:18 2017 ***Time is Fri Dec 15 07:31:18 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74999500e+04   6.58230000e+02   3.75400000e-02   2.76990000e+02
+   1.57600000e-02]. Order profit : 0.432%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10043.175902910121.
+Time is Fri Dec 15 07:31:48 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74600100e+04   6.58230000e+02   3.77100000e-02   2.76980000e+02
+   1.57900000e-02]. Order profit : 0.467%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10090.039400184498.
+*** Started new run at Fri Dec 15 07:32:52 2017 ***Time is Fri Dec 15 07:32:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74600100e+04   6.58020000e+02   3.77400000e-02   2.76990000e+02
+   1.58000000e-02]. Order profit : 0.407%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10040.66587489231.
+Time is Fri Dec 15 07:33:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74600100e+04   6.58020000e+02   3.76200000e-02   2.77010000e+02
+   1.58100000e-02]. Order profit : 0.350%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10075.847934385345.
+Time is Fri Dec 15 07:33:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74600000e+04   6.58030000e+02   3.76200000e-02   2.77000000e+02
+   1.58100000e-02]. Order profit : 0.347%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10110.794050718041.
+Time is Fri Dec 15 07:34:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74511700e+04   6.57950000e+02   3.76300000e-02   2.77190000e+02
+   1.58200000e-02]. Order profit : 0.403%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10151.536823877674.
+Time is Fri Dec 15 07:34:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74338200e+04   6.57450000e+02   3.76300000e-02   2.77190000e+02
+   1.58400000e-02]. Order profit : 0.376%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10189.70516039281.
+Time is Fri Dec 15 07:35:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74010200e+04   6.56070000e+02   3.76500000e-02   2.77000000e+02
+   1.58600000e-02]. Order profit : 0.370%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10227.358928693408.
+Time is Fri Dec 15 07:35:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74089200e+04   6.56250000e+02   3.76600000e-02   2.77010000e+02
+   1.58700000e-02]. Order profit : 0.264%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10254.398453275377.
+Time is Fri Dec 15 07:36:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74089200e+04   6.56270000e+02   3.76500000e-02   2.77030000e+02
+   1.58600000e-02]. Order profit : 0.335%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10288.734921348701.
+Time is Fri Dec 15 07:36:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73799400e+04   6.56150000e+02   3.76800000e-02   2.77080000e+02
+   1.58700000e-02]. Order profit : 0.457%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10335.749083670966.
+Time is Fri Dec 15 07:37:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73799400e+04   6.55990000e+02   3.77000000e-02   2.77060000e+02
+   1.58700000e-02]. Order profit : 0.450%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10382.228619182068.
+Time is Fri Dec 15 07:37:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73799400e+04   6.56140000e+02   3.77800000e-02   2.77010000e+02
+   1.58700000e-02]. Order profit : 0.432%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10427.03510333329.
+Time is Fri Dec 15 07:38:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73799400e+04   6.56180000e+02   3.78500000e-02   2.77060000e+02
+   1.58700000e-02]. Order profit : 0.450%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10473.925149176852.
+Time is Fri Dec 15 07:38:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73799500e+04   6.56190000e+02   3.77700000e-02   2.77070000e+02
+   1.58700000e-02]. Order profit : 0.453%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10521.39974248887.
+Time is Fri Dec 15 07:39:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73962500e+04   6.56180000e+02   3.77200000e-02   2.77000000e+02
+   1.58700000e-02]. Order profit : 0.334%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10556.51874603021.
+Time is Fri Dec 15 07:39:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74097500e+04   6.56190000e+02   3.77200000e-02   2.77000000e+02
+   1.58700000e-02]. Order profit : 0.256%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10583.541833299463.
+Time is Fri Dec 15 07:40:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74242000e+04   6.56260000e+02   3.77000000e-02   2.76240000e+02
+   1.58700000e-02]. Order profit : 0.102%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10594.348126045803.
+Time is Fri Dec 15 07:40:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74242000e+04   6.56260000e+02   3.77100000e-02   2.76080000e+02
+   1.58700000e-02]. Order profit : 0.160%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10611.311593035483.
+Time is Fri Dec 15 07:41:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74499800e+04   6.58010000e+02   3.77700000e-02   2.75050000e+02
+   1.57500000e-02]. Order profit : 0.163%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10628.659446632124.
+Time is Fri Dec 15 07:41:57 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74499900e+04   6.58240000e+02   3.77500000e-02   2.75510000e+02
+   1.57600000e-02]. Order profit : 0.181%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10647.912244747815.
+Time is Fri Dec 15 07:42:32 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74250100e+04   6.57100000e+02   3.77400000e-02   2.75000000e+02
+   1.57500000e-02]. Order profit : 0.203%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10669.487597590956.
+Time is Fri Dec 15 07:43:02 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74242000e+04   6.57290000e+02   3.77700000e-02   2.74590000e+02
+   1.57500000e-02]. Order profit : 0.125%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10682.83129910444.
+Time is Fri Dec 15 07:43:32 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74242000e+04   6.58260000e+02   3.78000000e-02   2.74960000e+02
+   1.57500000e-02]. Order profit : 0.193%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10703.417939260016.
+Time is Fri Dec 15 07:44:02 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74242100e+04   6.58370000e+02   3.78900000e-02   2.74800000e+02
+   1.57500000e-02]. Order profit : 0.278%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10733.222998718693.
+Time is Fri Dec 15 07:44:32 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73907700e+04   6.58560000e+02   3.78400000e-02   2.74150000e+02
+   1.57400000e-02]. Order profit : 0.153%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10749.66334523455.
+Time is Fri Dec 15 07:45:02 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73900500e+04   6.58560000e+02   3.78400000e-02   2.72880000e+02
+   1.57300000e-02]. Order profit : 0.244%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10775.879102475092.
+Time is Fri Dec 15 07:45:32 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.60510000e+02   3.78900000e-02   2.73390000e+02
+   1.57300000e-02]. Order profit : 0.243%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10802.068355859303.
+Time is Fri Dec 15 07:46:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.60870000e+02   3.79600000e-02   2.73390000e+02
+   1.57300000e-02]. Order profit : 0.113%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10814.244245460817.
+Time is Fri Dec 15 07:46:32 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900300e+04   6.61760000e+02   3.79500000e-02   2.73410000e+02
+   1.57200000e-02]. Order profit : 0.274%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10843.876815189014.
+Time is Fri Dec 15 07:47:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.61570000e+02   3.79500000e-02   2.73010000e+02
+   1.56800000e-02]. Order profit : 0.245%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10870.462380531122.
+Time is Fri Dec 15 07:47:32 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.62170000e+02   3.79600000e-02   2.72480000e+02
+   1.56400000e-02]. Order profit : 0.310%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10904.122795182602.
+Time is Fri Dec 15 07:48:02 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73900400e+04   6.61030000e+02   3.79500000e-02   2.70530000e+02
+   1.56000000e-02]. Order profit : 0.279%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10934.539062362552.
+Time is Fri Dec 15 07:48:32 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73900400e+04   6.60850000e+02   3.79600000e-02   2.70750000e+02
+   1.55400000e-02]. Order profit : 0.188%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10955.125326944792.
+Time is Fri Dec 15 07:49:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.61590000e+02   3.79600000e-02   2.70500000e+02
+   1.55400000e-02]. Order profit : 0.222%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 10979.422505664495.
+Time is Fri Dec 15 07:49:32 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.61490000e+02   3.79600000e-02   2.70390000e+02
+   1.55300000e-02]. Order profit : 0.207%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11002.110341123076.
+Time is Fri Dec 15 07:50:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73900400e+04   6.61130000e+02   3.79500000e-02   2.70400000e+02
+   1.55400000e-02]. Order profit : 0.178%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11021.748568737159.
+Time is Fri Dec 15 07:50:32 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74242100e+04   6.61110000e+02   3.79000000e-02   2.73260000e+02
+   1.56400000e-02]. Order profit : 0.274%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11051.89418544553.
+Time is Fri Dec 15 07:51:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74242000e+04   6.60830000e+02   3.78400000e-02   2.72220000e+02
+   1.56400000e-02]. Order profit : 0.227%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11077.008620109922.
+Time is Fri Dec 15 07:51:32 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74250000e+04   6.60780000e+02   3.78000000e-02   2.73390000e+02
+   1.56400000e-02]. Order profit : 0.321%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11112.577343560437.
+Time is Fri Dec 15 07:52:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74293600e+04   6.59430000e+02   3.77900000e-02   2.72640000e+02
+   1.56500000e-02]. Order profit : 0.118%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11125.644160649661.
+Time is Fri Dec 15 07:52:42 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74293600e+04   6.59460000e+02   3.77800000e-02   2.73070000e+02
+   1.56800000e-02]. Order profit : 0.149%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11142.181532934654.
+Time is Fri Dec 15 07:53:12 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379500e+04   6.59450000e+02   3.77900000e-02   2.73060000e+02
+   1.56800000e-02]. Order profit : 0.134%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11157.159210312346.
+Time is Fri Dec 15 07:54:07 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74379500e+04   6.59450000e+02   3.78600000e-02   2.72660000e+02
+   1.56500000e-02]. Order profit : 0.114%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11169.861689790747.
+Time is Fri Dec 15 07:54:37 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379600e+04   6.59450000e+02   3.78600000e-02   2.72100000e+02
+   1.56400000e-02]. Order profit : 0.231%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11195.711007522594.
+Time is Fri Dec 15 07:55:07 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379600e+04   6.59450000e+02   3.78600000e-02   2.72110000e+02
+   1.56400000e-02]. Order profit : 0.228%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11221.207753012946.
+Time is Fri Dec 15 07:55:37 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379500e+04   6.59450000e+02   3.78700000e-02   2.72100000e+02
+   1.56400000e-02]. Order profit : 0.231%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11247.169446090551.
+Time is Fri Dec 15 07:56:07 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74379500e+04   6.59700000e+02   3.78600000e-02   2.71980000e+02
+   1.55800000e-02]. Order profit : 0.109%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11259.45387539981.
+Time is Fri Dec 15 07:56:37 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379500e+04   6.60000000e+02   3.79000000e-02   2.71170000e+02
+   1.55900000e-02]. Order profit : 0.254%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11288.005914683681.
+Time is Fri Dec 15 07:57:07 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379500e+04   6.62000000e+02   3.79000000e-02   2.71170000e+02
+   1.55800000e-02]. Order profit : 0.189%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11309.371453658407.
+Time is Fri Dec 15 07:57:37 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379500e+04   6.61990000e+02   3.78900000e-02   2.71390000e+02
+   1.55800000e-02]. Order profit : 0.192%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11331.042391028608.
+Time is Fri Dec 15 07:58:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379500e+04   6.62480000e+02   3.79000000e-02   2.71850000e+02
+   1.55700000e-02]. Order profit : 0.239%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11358.160410486498.
+Time is Fri Dec 15 07:58:37 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379500e+04   6.63310000e+02   3.79100000e-02   2.70990000e+02
+   1.55200000e-02]. Order profit : 0.338%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11396.600643964135.
+Time is Fri Dec 15 07:59:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379500e+04   6.63320000e+02   3.79100000e-02   2.70670000e+02
+   1.55000000e-02]. Order profit : 0.340%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11435.343369045662.
+Time is Fri Dec 15 07:59:37 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379500e+04   6.64000000e+02   3.79600000e-02   2.70810000e+02
+   1.55100000e-02]. Order profit : 0.311%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11470.851493496051.
+Time is Fri Dec 15 08:00:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379100e+04   6.64000000e+02   3.79700000e-02   2.70820000e+02
+   1.55300000e-02]. Order profit : 0.284%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11503.465851348095.
+Time is Fri Dec 15 08:00:37 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74244900e+04   6.63990000e+02   3.79900000e-02   2.70810000e+02
+   1.55300000e-02]. Order profit : 0.307%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11538.80614788662.
+Time is Fri Dec 15 08:01:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74372000e+04   6.63990000e+02   3.80000000e-02   2.70820000e+02
+   1.55400000e-02]. Order profit : 0.208%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11562.774887408345.
+Time is Fri Dec 15 08:01:37 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74260500e+04   6.63990000e+02   3.80000000e-02   2.70820000e+02
+   1.55400000e-02]. Order profit : 0.272%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11594.207186624664.
+Time is Fri Dec 15 08:02:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74260500e+04   6.63990000e+02   3.80000000e-02   2.70810000e+02
+   1.55300000e-02]. Order profit : 0.272%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11625.724931544428.
+Time is Fri Dec 15 08:02:37 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74260000e+04   6.63990000e+02   3.80000000e-02   2.70810000e+02
+   1.55400000e-02]. Order profit : 0.272%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11657.3618025337.
+Time is Fri Dec 15 08:03:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74260100e+04   6.63990000e+02   3.80000000e-02   2.70810000e+02
+   1.55400000e-02]. Order profit : 0.272%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11689.078058519168.
+Time is Fri Dec 15 08:03:37 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74260100e+04   6.63990000e+02   3.80000000e-02   2.69460000e+02
+   1.55400000e-02]. Order profit : 0.497%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11747.215253814456.
+Time is Fri Dec 15 08:04:17 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74260100e+04   6.64340000e+02   3.81100000e-02   2.68940000e+02
+   1.54500000e-02]. Order profit : 0.109%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11759.963367275803.
+Time is Fri Dec 15 08:04:47 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74190000e+04   6.65970000e+02   3.81200000e-02   2.68230000e+02
+   1.54000000e-02]. Order profit : 0.295%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11794.635490332597.
+Time is Fri Dec 15 08:05:17 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74300000e+04   6.66490000e+02   3.81500000e-02   2.69890000e+02
+   1.54400000e-02]. Order profit : 0.286%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11828.417193889789.
+Time is Fri Dec 15 08:05:47 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74379500e+04   6.66760000e+02   3.82900000e-02   2.69980000e+02
+   1.54400000e-02]. Order profit : 0.274%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11860.841513471612.
+Time is Fri Dec 15 08:06:17 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74379500e+04   6.66750000e+02   3.82900000e-02   2.69440000e+02
+   1.54500000e-02]. Order profit : 0.142%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11877.72518788491.
+Time is Fri Dec 15 08:06:52 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379500e+04   6.68640000e+02   3.83200000e-02   2.69110000e+02
+   1.54500000e-02]. Order profit : 0.114%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11891.245584237671.
+Time is Fri Dec 15 08:07:22 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379500e+04   6.68630000e+02   3.83000000e-02   2.68800000e+02
+   1.54500000e-02]. Order profit : 0.229%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11918.510843399945.
+Time is Fri Dec 15 08:07:52 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74379600e+04   6.68630000e+02   3.83000000e-02   2.68770000e+02
+   1.54400000e-02]. Order profit : 0.176%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11939.446057797368.
+Time is Fri Dec 15 08:08:22 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74379600e+04   6.68630000e+02   3.83000000e-02   2.68990000e+02
+   1.54400000e-02]. Order profit : 0.113%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11952.963276630333.
+Time is Fri Dec 15 08:08:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74379900e+04   6.68630000e+02   3.83000000e-02   2.69930000e+02
+   1.54300000e-02]. Order profit : 0.320%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 11991.248124957441.
+Time is Fri Dec 15 08:09:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74380000e+04   6.68630000e+02   3.83000000e-02   2.69990000e+02
+   1.54400000e-02]. Order profit : 0.278%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12024.529692974651.
+Time is Fri Dec 15 08:09:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74379900e+04   6.68630000e+02   3.82900000e-02   2.69990000e+02
+   1.54500000e-02]. Order profit : 0.213%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12050.106075477817.
+Time is Fri Dec 15 08:10:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74397000e+04   6.68630000e+02   3.82900000e-02   2.69810000e+02
+   1.54300000e-02]. Order profit : 0.266%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12082.143122183874.
+Time is Fri Dec 15 08:10:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74490000e+04   6.68470000e+02   3.82800000e-02   2.69670000e+02
+   1.54300000e-02]. Order profit : 0.160%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12101.526116864996.
+Time is Fri Dec 15 08:11:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74499900e+04   6.68140000e+02   3.82900000e-02   2.69880000e+02
+   1.54200000e-02]. Order profit : 0.298%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12137.55714875868.
+Time is Fri Dec 15 08:11:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74499900e+04   6.68110000e+02   3.82800000e-02   2.70010000e+02
+   1.54200000e-02]. Order profit : 0.346%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12179.559474445801.
+Time is Fri Dec 15 08:12:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74499900e+04   6.68110000e+02   3.82800000e-02   2.70470000e+02
+   1.54400000e-02]. Order profit : 0.387%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12226.670349225984.
+Time is Fri Dec 15 08:12:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74500000e+04   6.68110000e+02   3.82800000e-02   2.70490000e+02
+   1.54400000e-02]. Order profit : 0.394%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12274.864018446995.
+Time is Fri Dec 15 08:13:27 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74499900e+04   6.68190000e+02   3.82800000e-02   2.72090000e+02
+   1.55200000e-02]. Order profit : 0.468%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12332.251442799256.
+Time is Fri Dec 15 08:13:57 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74499900e+04   6.68190000e+02   3.82800000e-02   2.71520000e+02
+   1.55200000e-02]. Order profit : 0.257%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12363.951609289215.
+Time is Fri Dec 15 08:14:27 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74489900e+04   6.68190000e+02   3.82800000e-02   2.71510000e+02
+   1.55300000e-02]. Order profit : 0.195%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12388.005140305724.
+Time is Fri Dec 15 08:14:57 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74303300e+04   6.68190000e+02   3.82800000e-02   2.71730000e+02
+   1.55300000e-02]. Order profit : 0.383%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12435.461305361749.
+Time is Fri Dec 15 08:15:27 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74303400e+04   6.68190000e+02   3.82600000e-02   2.71800000e+02
+   1.55800000e-02]. Order profit : 0.196%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12459.799331109889.
+Time is Fri Dec 15 08:15:57 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74303300e+04   6.68190000e+02   3.82600000e-02   2.72010000e+02
+   1.55900000e-02]. Order profit : 0.196%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12484.1921522863.
+Time is Fri Dec 15 08:16:52 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74369600e+04   6.68190000e+02   3.82700000e-02   2.72010000e+02
+   1.55900000e-02]. Order profit : 0.132%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12500.609331102061.
+Time is Fri Dec 15 08:17:22 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74303300e+04   6.68190000e+02   3.82700000e-02   2.72010000e+02
+   1.55900000e-02]. Order profit : 0.170%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12521.809226930762.
+Time is Fri Dec 15 08:17:52 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.74194300e+04   6.68210000e+02   3.82800000e-02   2.72010000e+02
+   1.56700000e-02]. Order profit : 0.350%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12565.655496711055.
+Time is Fri Dec 15 08:18:22 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74200000e+04   6.68990000e+02   3.83000000e-02   2.72210000e+02
+   1.56400000e-02]. Order profit : 0.270%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12599.631693028225.
+Time is Fri Dec 15 08:18:52 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74200000e+04   6.69010000e+02   3.83400000e-02   2.72980000e+02
+   1.56500000e-02]. Order profit : 0.169%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12620.8963592906.
+Time is Fri Dec 15 08:19:22 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73950000e+04   6.68900000e+02   3.83500000e-02   2.72970000e+02
+   1.56700000e-02]. Order profit : 0.270%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12654.983841929552.
+Time is Fri Dec 15 08:19:52 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73945900e+04   6.68720000e+02   3.83900000e-02   2.72840000e+02
+   1.56700000e-02]. Order profit : 0.141%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12672.829690302231.
+Time is Fri Dec 15 08:20:22 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73945000e+04   6.68710000e+02   3.83800000e-02   2.72850000e+02
+   1.56700000e-02]. Order profit : 0.166%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12693.88314974287.
+Time is Fri Dec 15 08:20:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73940000e+04   6.68740000e+02   3.84500000e-02   2.72840000e+02
+   1.56700000e-02]. Order profit : 0.101%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12706.737987080478.
+Time is Fri Dec 15 08:21:22 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73850000e+04   6.69970000e+02   3.85900000e-02   2.72460000e+02
+   1.57000000e-02]. Order profit : 0.178%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12729.333650865035.
+Time is Fri Dec 15 08:21:57 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73850000e+04   6.72960000e+02   3.86400000e-02   2.72450000e+02
+   1.56800000e-02]. Order profit : 0.179%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12752.141064359244.
+Time is Fri Dec 15 08:22:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73850000e+04   6.73000000e+02   3.86600000e-02   2.72450000e+02
+   1.57100000e-02]. Order profit : 0.245%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12783.423477574017.
+Time is Fri Dec 15 08:22:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73850000e+04   6.72990000e+02   3.87500000e-02   2.72450000e+02
+   1.56900000e-02]. Order profit : 0.118%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12798.46845734309.
+Time is Fri Dec 15 08:23:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73850000e+04   6.73890000e+02   3.87600000e-02   2.72450000e+02
+   1.56900000e-02]. Order profit : 0.118%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12813.531143747374.
+Time is Fri Dec 15 08:24:12 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73799000e+04   6.73890000e+02   3.87600000e-02   2.72450000e+02
+   1.57000000e-02]. Order profit : 0.152%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12833.022102499082.
+Time is Fri Dec 15 08:24:42 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73799000e+04   6.70660000e+02   3.87500000e-02   2.72460000e+02
+   1.57000000e-02]. Order profit : 0.419%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12886.812740464502.
+Time is Fri Dec 15 08:25:22 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73799100e+04   6.72770000e+02   3.87500000e-02   2.72440000e+02
+   1.57000000e-02]. Order profit : 0.156%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12906.896330102716.
+Time is Fri Dec 15 08:25:52 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73783500e+04   6.73140000e+02   3.87400000e-02   2.72440000e+02
+   1.57000000e-02]. Order profit : 0.147%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12925.850906109144.
+Time is Fri Dec 15 08:26:22 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73780000e+04   6.73140000e+02   3.87400000e-02   2.72470000e+02
+   1.57200000e-02]. Order profit : 0.261%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 12959.635447457895.
+Time is Fri Dec 15 08:26:52 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73420100e+04   6.73150000e+02   3.87500000e-02   2.72760000e+02
+   1.57800000e-02]. Order profit : 0.329%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13002.250668583923.
+Time is Fri Dec 15 08:27:22 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73400100e+04   6.73140000e+02   3.87500000e-02   2.72750000e+02
+   1.57400000e-02]. Order profit : 0.181%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13025.754314202906.
+Time is Fri Dec 15 08:28:12 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73400100e+04   6.73140000e+02   3.87800000e-02   2.72750000e+02
+   1.57400000e-02]. Order profit : 0.103%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13039.205577582563.
+Time is Fri Dec 15 08:28:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73400100e+04   6.73140000e+02   3.88100000e-02   2.72750000e+02
+   1.57500000e-02]. Order profit : 0.130%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13056.184392082729.
+Time is Fri Dec 15 08:29:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73400000e+04   6.72020000e+02   3.88100000e-02   2.72180000e+02
+   1.57400000e-02]. Order profit : 0.276%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13092.237842700297.
+Time is Fri Dec 15 08:29:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73400000e+04   6.72010000e+02   3.88100000e-02   2.72180000e+02
+   1.57200000e-02]. Order profit : 0.149%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13111.709287621765.
+Time is Fri Dec 15 08:30:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73400000e+04   6.72010000e+02   3.88100000e-02   2.72180000e+02
+   1.57300000e-02]. Order profit : 0.212%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13139.562878297435.
+Time is Fri Dec 15 08:30:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73400000e+04   6.72020000e+02   3.88100000e-02   2.72010000e+02
+   1.56800000e-02]. Order profit : 0.141%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13158.047659621116.
+Time is Fri Dec 15 08:31:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73400100e+04   6.72020000e+02   3.88100000e-02   2.71970000e+02
+   1.56900000e-02]. Order profit : 0.141%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13176.56604433541.
+Time is Fri Dec 15 08:31:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73400000e+04   6.72010000e+02   3.88100000e-02   2.72120000e+02
+   1.56900000e-02]. Order profit : 0.142%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13195.299234613467.
+Time is Fri Dec 15 08:32:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73400000e+04   6.72010000e+02   3.88100000e-02   2.72190000e+02
+   1.56800000e-02]. Order profit : 0.142%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13214.059057962448.
+Time is Fri Dec 15 08:32:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73400000e+04   6.72020000e+02   3.88100000e-02   2.72200000e+02
+   1.56800000e-02]. Order profit : 0.141%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13232.648640762656.
+Time is Fri Dec 15 08:33:27 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400000e+04   6.73590000e+02   3.88100000e-02   2.72190000e+02
+   1.56800000e-02]. Order profit : 0.110%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13247.190911398337.
+Time is Fri Dec 15 08:33:57 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73397200e+04   6.73580000e+02   3.88100000e-02   2.72370000e+02
+   1.56800000e-02]. Order profit : 0.178%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13270.733485915915.
+Time is Fri Dec 15 08:34:27 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73288200e+04   6.73580000e+02   3.88200000e-02   2.72220000e+02
+   1.56800000e-02]. Order profit : 0.186%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13295.354086547311.
+Time is Fri Dec 15 08:34:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73288100e+04   6.73770000e+02   3.89700000e-02   2.71810000e+02
+   1.56500000e-02]. Order profit : 0.228%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13325.618755875328.
+Time is Fri Dec 15 08:35:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73288000e+04   6.73780000e+02   3.89400000e-02   2.71200000e+02
+   1.56500000e-02]. Order profit : 0.149%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13345.46482626061.
+Time is Fri Dec 15 08:35:57 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400000e+04   6.73780000e+02   3.88800000e-02   2.71200000e+02
+   1.56200000e-02]. Order profit : 0.129%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13362.670743013781.
+Time is Fri Dec 15 08:36:27 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400000e+04   6.73780000e+02   3.88900000e-02   2.71200000e+02
+   1.56200000e-02]. Order profit : 0.129%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13379.898842851258.
+Time is Fri Dec 15 08:36:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73400000e+04   6.73780000e+02   3.88500000e-02   2.70000000e+02
+   1.56200000e-02]. Order profit : 0.315%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13422.060390760511.
+Time is Fri Dec 15 08:37:27 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400100e+04   6.73780000e+02   3.88400000e-02   2.71510000e+02
+   1.56300000e-02]. Order profit : 0.179%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13446.111140880465.
+Time is Fri Dec 15 08:38:02 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400100e+04   6.73780000e+02   3.88400000e-02   2.72300000e+02
+   1.56600000e-02]. Order profit : 0.278%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13483.51854114004.
+Time is Fri Dec 15 08:38:32 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400000e+04   6.73770000e+02   3.88400000e-02   2.72220000e+02
+   1.56600000e-02]. Order profit : 0.249%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13517.06541276175.
+Time is Fri Dec 15 08:39:02 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73400000e+04   6.73770000e+02   3.88500000e-02   2.71860000e+02
+   1.56500000e-02]. Order profit : 0.180%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13541.422639535578.
+Time is Fri Dec 15 08:39:47 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.73770000e+02   3.88400000e-02   2.72190000e+02
+   1.56500000e-02]. Order profit : 0.290%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13580.72436473526.
+Time is Fri Dec 15 08:40:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73500000e+04   6.73770000e+02   3.88400000e-02   2.72200000e+02
+   1.56600000e-02]. Order profit : 0.184%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13605.666420369958.
+Time is Fri Dec 15 08:40:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73580000e+04   6.73770000e+02   3.88400000e-02   2.72480000e+02
+   1.56700000e-02]. Order profit : 0.177%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13629.683435213557.
+Time is Fri Dec 15 08:41:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73778100e+04   6.73770000e+02   3.87500000e-02   2.72630000e+02
+   1.56600000e-02]. Order profit : 0.181%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13654.399656540128.
+Time is Fri Dec 15 08:41:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73851400e+04   6.73780000e+02   3.87400000e-02   2.72720000e+02
+   1.56700000e-02]. Order profit : 0.108%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13669.178337905034.
+Time is Fri Dec 15 08:42:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73851400e+04   6.73770000e+02   3.87400000e-02   2.72790000e+02
+   1.56700000e-02]. Order profit : 0.134%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13687.485328206752.
+Time is Fri Dec 15 08:43:02 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73700800e+04   6.73590000e+02   3.87400000e-02   2.72800000e+02
+   1.57100000e-02]. Order profit : 0.100%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13701.176554174412.
+Time is Fri Dec 15 08:43:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73714000e+04   6.73560000e+02   3.87400000e-02   2.72800000e+02
+   1.57200000e-02]. Order profit : 0.102%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13715.159388346314.
+Time is Fri Dec 15 08:44:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73714000e+04   6.71320000e+02   3.87300000e-02   2.72880000e+02
+   1.57300000e-02]. Order profit : 0.220%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13745.279988387645.
+Time is Fri Dec 15 08:44:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73670000e+04   6.71640000e+02   3.87300000e-02   2.73000000e+02
+   1.57400000e-02]. Order profit : 0.146%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13765.415951751016.
+Time is Fri Dec 15 08:45:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73690100e+04   6.70200000e+02   3.87000000e-02   2.73650000e+02
+   1.58300000e-02]. Order profit : 0.476%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13830.881699534244.
+Time is Fri Dec 15 08:46:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73690000e+04   6.70190000e+02   3.85500000e-02   2.74300000e+02
+   1.57700000e-02]. Order profit : 0.143%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13850.61845212039.
+Time is Fri Dec 15 08:46:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73690100e+04   6.70020000e+02   3.85500000e-02   2.74470000e+02
+   1.57700000e-02]. Order profit : 0.205%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13878.9716788179.
+Time is Fri Dec 15 08:47:22 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73690100e+04   6.70010000e+02   3.85600000e-02   2.74490000e+02
+   1.57700000e-02]. Order profit : 0.212%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13908.396345768473.
+Time is Fri Dec 15 08:47:52 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73690000e+04   6.70010000e+02   3.85700000e-02   2.74490000e+02
+   1.57700000e-02]. Order profit : 0.212%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13937.891420231184.
+Time is Fri Dec 15 08:48:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73690000e+04   6.70010000e+02   3.85700000e-02   2.74010000e+02
+   1.58300000e-02]. Order profit : 0.344%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 13985.770399309033.
+Time is Fri Dec 15 08:48:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73690000e+04   6.70010000e+02   3.85700000e-02   2.74010000e+02
+   1.58300000e-02]. Order profit : 0.344%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14033.81385065664.
+Time is Fri Dec 15 08:49:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73690000e+04   6.70010000e+02   3.85700000e-02   2.74010000e+02
+   1.58000000e-02]. Order profit : 0.153%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14055.334994337696.
+Time is Fri Dec 15 08:49:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73690000e+04   6.70000000e+02   3.87300000e-02   2.74270000e+02
+   1.58700000e-02]. Order profit : 0.502%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14125.85150220315.
+Time is Fri Dec 15 08:50:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73690100e+04   6.70000000e+02   3.86100000e-02   2.74280000e+02
+   1.58200000e-02]. Order profit : 0.181%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14151.485802553792.
+Time is Fri Dec 15 08:50:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73690000e+04   6.67790000e+02   3.85700000e-02   2.74270000e+02
+   1.57700000e-02]. Order profit : 0.319%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14196.67311850845.
+Time is Fri Dec 15 08:51:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73600100e+04   6.67780000e+02   3.85700000e-02   2.74000000e+02
+   1.58100000e-02]. Order profit : 0.269%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14234.846384013807.
+Time is Fri Dec 15 08:51:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73600100e+04   6.67510000e+02   3.85700000e-02   2.74000000e+02
+   1.58100000e-02]. Order profit : 0.309%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14278.89560444873.
+Time is Fri Dec 15 08:52:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73600100e+04   6.67510000e+02   3.85700000e-02   2.74000000e+02
+   1.58100000e-02]. Order profit : 0.309%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14323.08113361285.
+Time is Fri Dec 15 08:52:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73600000e+04   6.67510000e+02   3.85700000e-02   2.74140000e+02
+   1.58100000e-02]. Order profit : 0.309%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14367.39511715937.
+Time is Fri Dec 15 08:53:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73500000e+04   6.66210000e+02   3.85600000e-02   2.74170000e+02
+   1.58100000e-02]. Order profit : 0.421%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14427.908935172833.
+Time is Fri Dec 15 08:53:57 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73479500e+04   6.67540000e+02   3.85600000e-02   2.74260000e+02
+   1.58100000e-02]. Order profit : 0.209%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14458.10202658729.
+Time is Fri Dec 15 08:54:27 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73478500e+04   6.67990000e+02   3.85600000e-02   2.74270000e+02
+   1.58100000e-02]. Order profit : 0.141%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14478.514574962062.
+Time is Fri Dec 15 08:54:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73478500e+04   6.67990000e+02   3.85600000e-02   2.73740000e+02
+   1.58100000e-02]. Order profit : 0.193%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14506.521064824034.
+Time is Fri Dec 15 08:55:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73429900e+04   6.67990000e+02   3.85600000e-02   2.73350000e+02
+   1.58100000e-02]. Order profit : 0.308%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14551.241158725938.
+Time is Fri Dec 15 08:55:57 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73329900e+04   6.68300000e+02   3.85300000e-02   2.73470000e+02
+   1.58000000e-02]. Order profit : 0.143%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14572.05900599775.
+Time is Fri Dec 15 08:56:27 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73310100e+04   6.68000000e+02   3.85500000e-02   2.73500000e+02
+   1.58000000e-02]. Order profit : 0.121%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14589.63914291.
+Time is Fri Dec 15 08:57:02 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73310100e+04   6.68320000e+02   3.85500000e-02   2.73530000e+02
+   1.58000000e-02]. Order profit : 0.110%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14605.63840799255.
+Time is Fri Dec 15 08:57:42 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73541100e+04   6.68320000e+02   3.85300000e-02   2.73850000e+02
+   1.58000000e-02]. Order profit : 0.126%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14624.03548559407.
+Time is Fri Dec 15 08:59:57 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73527700e+04   6.68320000e+02   3.83100000e-02   2.73880000e+02
+   1.57800000e-02]. Order profit : 0.532%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14701.807353552464.
+Time is Fri Dec 15 09:00:27 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73527700e+04   6.67990000e+02   3.84300000e-02   2.73940000e+02
+   1.57800000e-02]. Order profit : 0.168%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14726.566188203338.
+Time is Fri Dec 15 09:01:07 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73527600e+04   6.67440000e+02   3.83400000e-02   2.73870000e+02
+   1.57800000e-02]. Order profit : 0.321%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14773.828574235436.
+Time is Fri Dec 15 09:02:48 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73520100e+04   6.63100000e+02   3.81600000e-02   2.74000000e+02
+   1.57800000e-02]. Order profit : 0.143%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14794.964520878002.
+Time is Fri Dec 15 09:03:18 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73520000e+04   6.62560000e+02   3.81400000e-02   2.73990000e+02
+   1.57900000e-02]. Order profit : 0.114%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14811.836637134307.
+Time is Fri Dec 15 09:03:48 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73520000e+04   6.62570000e+02   3.82900000e-02   2.74010000e+02
+   1.57800000e-02]. Order profit : 0.277%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14852.927149360914.
+Time is Fri Dec 15 09:04:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73520100e+04   6.62570000e+02   3.81900000e-02   2.74230000e+02
+   1.57800000e-02]. Order profit : 0.152%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14875.453901438326.
+Time is Fri Dec 15 09:05:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73520100e+04   6.62570000e+02   3.81500000e-02   2.74110000e+02
+   1.57800000e-02]. Order profit : 0.108%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14891.49561310857.
+Time is Fri Dec 15 09:05:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73429000e+04   6.62560000e+02   3.81600000e-02   2.74100000e+02
+   1.57800000e-02]. Order profit : 0.157%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14914.841230225438.
+Time is Fri Dec 15 09:06:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73337700e+04   6.62560000e+02   3.81800000e-02   2.74100000e+02
+   1.57800000e-02]. Order profit : 0.210%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14946.09167031855.
+Time is Fri Dec 15 09:06:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73310100e+04   6.62540000e+02   3.81800000e-02   2.74100000e+02
+   1.57800000e-02]. Order profit : 0.225%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 14979.79277198333.
+Time is Fri Dec 15 09:07:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73310100e+04   6.62560000e+02   3.81900000e-02   2.74100000e+02
+   1.57800000e-02]. Order profit : 0.225%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15013.569864367186.
+Time is Fri Dec 15 09:07:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73310000e+04   6.63760000e+02   3.81900000e-02   2.74100000e+02
+   1.57800000e-02]. Order profit : 0.285%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15056.421552506052.
+Time is Fri Dec 15 09:08:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73310100e+04   6.65030000e+02   3.82900000e-02   2.74100000e+02
+   1.57900000e-02]. Order profit : 0.215%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15088.767395105724.
+Time is Fri Dec 15 09:08:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73310100e+04   6.65090000e+02   3.82900000e-02   2.73990000e+02
+   1.57900000e-02]. Order profit : 0.224%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15122.546982256132.
+Time is Fri Dec 15 09:09:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73310200e+04   6.65720000e+02   3.83600000e-02   2.73910000e+02
+   1.57800000e-02]. Order profit : 0.156%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15146.130975187732.
+Time is Fri Dec 15 09:09:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73310200e+04   6.65710000e+02   3.83600000e-02   2.73920000e+02
+   1.57900000e-02]. Order profit : 0.134%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15166.454511776328.
+Time is Fri Dec 15 09:10:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73310200e+04   6.65710000e+02   3.83600000e-02   2.73980000e+02
+   1.57900000e-02]. Order profit : 0.134%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15186.805319100939.
+Time is Fri Dec 15 09:10:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73310200e+04   6.65710000e+02   3.83600000e-02   2.73930000e+02
+   1.57900000e-02]. Order profit : 0.134%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15207.183433754262.
+Time is Fri Dec 15 09:11:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73399700e+04   6.65710000e+02   3.83400000e-02   2.74000000e+02
+   1.57900000e-02]. Order profit : 0.135%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15227.668542297906.
+Time is Fri Dec 15 09:11:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73400000e+04   6.65710000e+02   3.83400000e-02   2.73940000e+02
+   1.57800000e-02]. Order profit : 0.135%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15248.15486473714.
+Time is Fri Dec 15 09:12:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73400000e+04   6.65710000e+02   3.83200000e-02   2.73930000e+02
+   1.57700000e-02]. Order profit : 0.187%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15276.637781945761.
+Time is Fri Dec 15 09:12:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73400000e+04   6.64230000e+02   3.82300000e-02   2.73900000e+02
+   1.57700000e-02]. Order profit : 0.199%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15307.098500066575.
+Time is Fri Dec 15 09:13:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73399900e+04   6.64230000e+02   3.82500000e-02   2.73900000e+02
+   1.57700000e-02]. Order profit : 0.164%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15332.196376310569.
+Time is Fri Dec 15 09:13:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73399900e+04   6.64230000e+02   3.82200000e-02   2.73710000e+02
+   1.57300000e-02]. Order profit : 0.349%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15385.70752531641.
+Time is Fri Dec 15 09:14:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73399900e+04   6.64230000e+02   3.82300000e-02   2.73520000e+02
+   1.57500000e-02]. Order profit : 0.199%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15416.394612751175.
+Time is Fri Dec 15 09:14:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73399900e+04   6.62680000e+02   3.82300000e-02   2.73590000e+02
+   1.57500000e-02]. Order profit : 0.178%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15443.781089683875.
+Time is Fri Dec 15 09:15:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73399900e+04   6.63150000e+02   3.81800000e-02   2.73140000e+02
+   1.57400000e-02]. Order profit : 0.168%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15469.655568170614.
+Time is Fri Dec 15 09:15:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73399900e+04   6.63800000e+02   3.81800000e-02   2.73180000e+02
+   1.57400000e-02]. Order profit : 0.266%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15510.76169906113.
+Time is Fri Dec 15 09:16:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73399900e+04   6.63800000e+02   3.82300000e-02   2.73590000e+02
+   1.57400000e-02]. Order profit : 0.241%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15548.18767973688.
+Time is Fri Dec 15 09:16:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73419800e+04   6.63790000e+02   3.82300000e-02   2.73600000e+02
+   1.57100000e-02]. Order profit : 0.425%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15614.245422844775.
+Time is Fri Dec 15 09:17:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73419900e+04   6.63800000e+02   3.82300000e-02   2.73130000e+02
+   1.57000000e-02]. Order profit : 0.316%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15663.608585937829.
+Time is Fri Dec 15 09:17:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63800000e+02   3.82400000e-02   2.73130000e+02
+   1.56900000e-02]. Order profit : 0.380%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15723.133480609302.
+Time is Fri Dec 15 09:18:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63790000e+02   3.82400000e-02   2.73140000e+02
+   1.56800000e-02]. Order profit : 0.448%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15793.528418140902.
+Time is Fri Dec 15 09:18:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63790000e+02   3.82400000e-02   2.73140000e+02
+   1.56700000e-02]. Order profit : 0.512%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15874.362480525258.
+Time is Fri Dec 15 09:19:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73419900e+04   6.63790000e+02   3.82400000e-02   2.73130000e+02
+   1.56600000e-02]. Order profit : 0.572%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 15965.223711677525.
+Time is Fri Dec 15 09:19:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63790000e+02   3.82300000e-02   2.73130000e+02
+   1.56700000e-02]. Order profit : 0.508%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16046.349042247133.
+Time is Fri Dec 15 09:20:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73419900e+04   6.63800000e+02   3.82300000e-02   2.73130000e+02
+   1.56700000e-02]. Order profit : 0.508%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16127.895901161808.
+Time is Fri Dec 15 09:20:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63790000e+02   3.82300000e-02   2.73140000e+02
+   1.56700000e-02]. Order profit : 0.512%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16210.44131526354.
+Time is Fri Dec 15 09:21:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63790000e+02   3.82300000e-02   2.73080000e+02
+   1.56700000e-02]. Order profit : 0.490%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16289.830077740697.
+Time is Fri Dec 15 09:21:43 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63800000e+02   3.82200000e-02   2.73000000e+02
+   1.56700000e-02]. Order profit : 0.460%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16364.812088175182.
+Time is Fri Dec 15 09:22:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63790000e+02   3.82200000e-02   2.73000000e+02
+   1.56700000e-02]. Order profit : 0.460%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16440.139240447366.
+Time is Fri Dec 15 09:22:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73419900e+04   6.63790000e+02   3.82200000e-02   2.72150000e+02
+   1.56700000e-02]. Order profit : 0.148%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16464.425556693946.
+Time is Fri Dec 15 09:23:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73420000e+04   6.63790000e+02   3.82000000e-02   2.71770000e+02
+   1.56700000e-02]. Order profit : 0.200%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16497.371089341366.
+Time is Fri Dec 15 09:23:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73420000e+04   6.63780000e+02   3.81300000e-02   2.71770000e+02
+   1.56600000e-02]. Order profit : 0.383%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16560.479945349318.
+Time is Fri Dec 15 09:24:13 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73420000e+04   6.63220000e+02   3.81300000e-02   2.71610000e+02
+   1.56100000e-02]. Order profit : 0.333%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16615.621467673725.
+Time is Fri Dec 15 09:24:43 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73419900e+04   6.62880000e+02   3.81300000e-02   2.71390000e+02
+   1.56500000e-02]. Order profit : 0.246%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16656.577463317826.
+Time is Fri Dec 15 09:25:13 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73420000e+04   6.62880000e+02   3.81300000e-02   2.71400000e+02
+   1.56500000e-02]. Order profit : 0.246%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16697.624783329633.
+Time is Fri Dec 15 09:26:03 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73419900e+04   6.62560000e+02   3.82500000e-02   2.71210000e+02
+   1.56400000e-02]. Order profit : 0.116%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16717.05823943755.
+Time is Fri Dec 15 09:26:33 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73419900e+04   6.63750000e+02   3.83000000e-02   2.70300000e+02
+   1.56400000e-02]. Order profit : 0.344%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16774.49636932856.
+Time is Fri Dec 15 09:27:03 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73419900e+04   6.65720000e+02   3.83000000e-02   2.71180000e+02
+   1.56500000e-02]. Order profit : 0.229%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16812.929389404562.
+Time is Fri Dec 15 09:27:33 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73420000e+04   6.65720000e+02   3.83900000e-02   2.70730000e+02
+   1.56400000e-02]. Order profit : 0.184%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16843.91093638416.
+Time is Fri Dec 15 09:28:03 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73419900e+04   6.65720000e+02   3.83900000e-02   2.71000000e+02
+   1.56500000e-02]. Order profit : 0.148%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16868.906026043373.
+Time is Fri Dec 15 09:28:38 2017. Order : ('USD', 'LTC', 'BTC'). Prices : [  1.73419900e+04   6.65710000e+02   3.83900000e-02   2.70910000e+02
+   1.56400000e-02]. Order profit : 0.118%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16888.75216851387.
+Time is Fri Dec 15 09:29:08 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73419900e+04   6.65710000e+02   3.85000000e-02   2.70790000e+02
+   1.56400000e-02]. Order profit : 0.294%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16938.390578368308.
+Time is Fri Dec 15 09:29:38 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73420000e+04   6.65710000e+02   3.84900000e-02   2.70800000e+02
+   1.56400000e-02]. Order profit : 0.268%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 16983.772162943824.
+Time is Fri Dec 15 09:30:08 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73419900e+04   6.66000000e+02   3.84700000e-02   2.71470000e+02
+   1.56400000e-02]. Order profit : 0.172%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17013.005552182538.
+Time is Fri Dec 15 09:30:38 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73420000e+04   6.65990000e+02   3.84700000e-02   2.71650000e+02
+   1.56400000e-02]. Order profit : 0.174%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17042.55498091635.
+Time is Fri Dec 15 09:31:08 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73420000e+04   6.65990000e+02   3.85500000e-02   2.71570000e+02
+   1.56500000e-02]. Order profit : 0.382%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17107.65800667792.
+Time is Fri Dec 15 09:32:08 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73396200e+04   6.66930000e+02   3.84700000e-02   2.71470000e+02
+   1.56400000e-02]. Order profit : 0.103%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17125.216807454733.
+Time is Fri Dec 15 09:32:38 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73396200e+04   6.66940000e+02   3.84700000e-02   2.71570000e+02
+   1.56400000e-02]. Order profit : 0.140%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17149.10843230809.
+Time is Fri Dec 15 09:33:08 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73396300e+04   6.66930000e+02   3.84700000e-02   2.71800000e+02
+   1.56400000e-02]. Order profit : 0.224%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17187.56778422299.
+Time is Fri Dec 15 09:33:38 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73396200e+04   6.66940000e+02   3.84800000e-02   2.71710000e+02
+   1.56500000e-02]. Order profit : 0.127%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17209.415844166302.
+Time is Fri Dec 15 09:34:08 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73396300e+04   6.66930000e+02   3.84800000e-02   2.71750000e+02
+   1.56500000e-02]. Order profit : 0.142%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17233.818455464876.
+Time is Fri Dec 15 09:34:38 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.73396300e+04   6.66930000e+02   3.84800000e-02   2.71750000e+02
+   1.56500000e-02]. Order profit : 0.142%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17258.255669183633.
+Time is Fri Dec 15 09:35:08 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73612200e+04   6.66940000e+02   3.84700000e-02   2.71850000e+02
+   1.56400000e-02]. Order profit : 0.142%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17282.738549374284.
+Time is Fri Dec 15 09:35:38 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73999900e+04   6.66930000e+02   3.84700000e-02   2.71890000e+02
+   1.56500000e-02]. Order profit : 0.367%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17346.16573858357.
+Time is Fri Dec 15 09:36:08 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74000000e+04   6.66940000e+02   3.84700000e-02   2.71890000e+02
+   1.56400000e-02]. Order profit : 0.366%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17409.574669028087.
+Time is Fri Dec 15 09:36:38 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74000000e+04   6.66930000e+02   3.84500000e-02   2.71890000e+02
+   1.56400000e-02]. Order profit : 0.315%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17464.393175925303.
+Time is Fri Dec 15 09:37:08 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.73999900e+04   6.66930000e+02   3.83900000e-02   2.71890000e+02
+   1.56400000e-02]. Order profit : 0.158%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17492.035799009045.
+Time is Fri Dec 15 09:37:38 2017. Order : ('USD', 'ETH', 'BTC'). Prices : [  1.74000000e+04   6.66930000e+02   3.83900000e-02   2.71930000e+02
+   1.56400000e-02]. Order profit : 0.158%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17519.732243619055.
+Time is Fri Dec 15 09:38:08 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.73999900e+04   6.66930000e+02   3.82900000e-02   2.71920000e+02
+   1.56400000e-02]. Order profit : 0.103%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17537.728917596887.
+Time is Fri Dec 15 09:38:38 2017. Order : ('USD', 'BTC', 'ETH'). Prices : [  1.74000000e+04   6.66930000e+02   3.82900000e-02   2.71990000e+02
+   1.56400000e-02]. Order profit : 0.103%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17555.733988666187.
+Time is Fri Dec 15 09:40:18 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74000100e+04   6.66930000e+02   3.83600000e-02   2.72410000e+02
+   1.56400000e-02]. Order profit : 0.101%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17573.39987128795.
+Time is Fri Dec 15 09:40:58 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74000000e+04   6.66930000e+02   3.83600000e-02   2.72450000e+02
+   1.56400000e-02]. Order profit : 0.115%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17593.676672444664.
+Time is Fri Dec 15 09:41:28 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74050000e+04   6.66920000e+02   3.81900000e-02   2.72500000e+02
+   1.55700000e-02]. Order profit : 0.555%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17691.32956553088.
+Time is Fri Dec 15 09:41:58 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74268600e+04   6.66920000e+02   3.82100000e-02   2.72660000e+02
+   1.56000000e-02]. Order profit : 0.295%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17743.453906040948.
+Time is Fri Dec 15 09:42:28 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74268600e+04   6.66920000e+02   3.82200000e-02   2.72650000e+02
+   1.55900000e-02]. Order profit : 0.355%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17806.493569399634.
+Time is Fri Dec 15 09:42:58 2017. Order : ('USD', 'BTC', 'LTC'). Prices : [  1.74268500e+04   6.66920000e+02   3.82200000e-02   2.72660000e+02
+   1.55900000e-02]. Order profit : 0.359%.  Current balance : BTC = 0. ETH = 0. LTC = 0. USD = 17870.422867292073.
